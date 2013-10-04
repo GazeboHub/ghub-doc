@@ -1,0 +1,15 @@
+
+
+default namespace db = "http://docbook.org/ns/docbook"
+
+
+include "docbookxi.rnc" {
+}
+
+
+db.set.components
+	|= db.xi.include
+db.toc.components
+	|= db.xi.include
+db.setindex.components
+	|= db.xi.include
