@@ -203,11 +203,11 @@
           <simplelist>
             <member><productname xlink:href="http://www.inkscape.org/"
                                  >Inkscape</productname>
-            &ndash; Vector Graphics Development Platform</member>
+            &ndash; Vector Graphics Development Platform (&foss;)</member>
 
             <member><productname xlink:href="http://www.gimp.org/"
                                  >GNU Image Manipulation Program</productname>
-            &ndash; Raster Graphics Development Platform</member>
+            &ndash; Raster Graphics Development Platform (&foss;)</member>
 
             <member><link xlink:href="https://openclipart.org/"
                           >Open Clipart</link>
