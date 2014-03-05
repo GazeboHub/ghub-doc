@@ -21,3 +21,7 @@
 <!ENTITY jboss
         '<productname>JBoss AS</productname><productnumber>7</productnumber>'
 >
+
+<!ENTITY foss
+        '<glossterm>Free/Open Source Software</glossterm>'
+>
