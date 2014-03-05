@@ -156,6 +156,11 @@
                 Installation Instructions</link>,
                 <productname>Liferay Wiki</productname>
               </member>
+              <member>
+                <link
+                    xlink:href="https://www.liferay.com/community/wiki/-/wiki/Main/7Cogs+sample+data"
+                    >7Cogs Sample Data</link>,
+                <productname>Liferay Wiki</productname></member>
             </simplelist>
           </refsect1>
         </refentry>
