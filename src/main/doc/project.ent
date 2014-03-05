@@ -1,10 +1,19 @@
 
 <!-- Entity Definitions for Gazebo Hub Documentation -->
 
+<!-- * Project Entities -->
+
 <!ENTITY project
          'Gazebo Hub'
 >
 
 <!ENTITY projid
         'ghub'
+>
+
+
+<!-- * Shorthand Entities -->
+
+<!ENTITY liferay
+        '<productname>Liferay</productname> <productnumber>6.2</productnumber>"
 >
