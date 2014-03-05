@@ -15,5 +15,9 @@
 <!-- * Shorthand Entities -->
 
 <!ENTITY liferay
-        '<productname>Liferay</productname> <productnumber>6.2</productnumber>"
+        '<productname>Liferay</productname> <productnumber>6.2</productnumber>'
+>
+
+<!ENTITY jboss
+        '<productname>JBoss AS</productname><productnumber>7</productnumber>'
 >
