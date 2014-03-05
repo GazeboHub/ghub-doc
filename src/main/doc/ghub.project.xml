@@ -9,8 +9,18 @@
      version="5.0-ghubx"
      >
   <title>&project; Project Documentation</title>
+
   <chapter>
-    <title>Administrativa</title>
-    <para> </para>
+    <title>Overview</title>
+
+    <section>
+      <title>The &project; Documentation Project</title>
+
+      <para>
+        This manual contains the primary documentation of the
+        &project; documentation project.
+      </para>
+    </section>
+
   </chapter>
 </book>
