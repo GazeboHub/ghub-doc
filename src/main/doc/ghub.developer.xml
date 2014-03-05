@@ -1,0 +1,113 @@
+<!DOCTYPE book [
+<!ENTITY % project.ent SYSTEM "project.ent">
+%project.ent;
+]>
+<book xmlns="http://docbook.org/ns/docbook"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xml:id="&projid;.devel"
+     >
+  <title>&project; Developer Documentation</title>
+
+  <part xml:id="&projid;.devel.admin">
+    <title>&project; Developer Administrative Documentation</title>
+
+      <chapter xml:id="&projid;.devel.admin.avail">
+	<title>Availability</title>
+	<para> </para>
+      </chapter>
+
+      <chapter xml:id="&projid;.devel.admin.plat">
+	<title>Supported Platforms</title>
+	<para> </para>
+      </chapter>
+
+      <chapter xml:id="&projid;.devel.admin.status">
+	<title>Status of the Codebase</title>
+	<para> </para>
+      </chapter>
+  </part>
+
+  <part xml:id="&projid;.devel.plan">
+    <title>Research and Development Planning</title>
+    <chapter>
+      <title>General "To Do"</title>
+      <itemizedlist>
+
+	<listitem>
+	  <para></para>
+	</listitem>
+      </itemizedlist>
+    </chapter>
+  </part>
+
+  <part xml:id="&projid;.devel.ref">
+    <title>&project; Developer's Reference</title>
+
+    <chapter>
+      <title>Foo</title>
+    </chapter>
+
+    <reference>
+      <title>Foo Dictionary</title>
+    <!-- FUNCTION REFENTRY TEMPLATE
+      <refentry xml:id="ref.&projid;.foo.fn">
+	<refnamediv>
+	  <refname><function>FOO</function></refname>
+	  <refpurpose></refpurpose>
+	  <refclass>Function</refclass>
+	</refnamediv>
+	<refsect1>
+	  <title>Syntax and Arguments</title>
+	  <programlisting></programlisting>
+	  <segmentedlist>
+	    <segtitle>Argument</segtitle>
+	    <segtitle>Type</segtitle>
+	    <segtitle>Synopsis</segtitle>
+	    <seglistitem>
+		<seg><symbol></symbol></seg>
+		<seg><classname></classname></seg>
+		<seg></seg>
+	    </seglistitem>
+	  </segmentedlist>
+	</refsect1>
+	<refsect1>
+	  <title>Description</title>
+	  <para>The function,
+	  <classname>foo</classname></para>
+	</refsect1>
+      </refentry>
+
+    -->
+    <!-- CLASS REFENTRY TEMPLATE
+
+      <refentry xml:id="ref.&projid;.foo.c">
+	<refnamediv>
+	  <refname><classname>FOO</classname></refname>
+	  <refpurpose></refpurpose>
+	  <refclass>Standard Class</refclass>
+	</refnamediv>
+	<refsect1>
+	  <title>Direct Superclasses</title>
+	  <simplelist>
+	    <member><classname></classname></member>
+	  </simplelist>
+	</refsect1>
+	<refsect1>
+	  <title>Description</title>
+	  <para>The class,
+	  <classname></classname>, will </para>
+	</refsect1>
+	<refsect1>
+	  <title>See Also</title>
+	  <simplelist>
+	    <member><xref linkend=""/></member>
+	  </simplelist>
+	</refsect1>
+      </refentry>
+
+    -->
+
+    </reference>
+  </part>
+</book>

@@ -1,0 +1,10 @@
+
+<!-- Entity Definitions for Gazebo Hub Documentation -->
+
+<!ENTITY project
+         'Gazebo Hub'
+>
+
+<!ENTITY projid
+        'ghub'
+>
