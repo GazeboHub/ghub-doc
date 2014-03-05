@@ -3,7 +3,7 @@
 %project.ent;
 ]>
 <!-- NOTICE: This document uses a customized version of DocBook 5
-     as defined in twaindbk.rnc
+     as defined in ghubx.rnc
 -->
 <set xmlns="http://docbook.org/ns/docbook"
      xmlns:xi="http://www.w3.org/2001/XInclude"
