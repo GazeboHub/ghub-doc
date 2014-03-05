@@ -12,7 +12,16 @@
      version="5.0-ghubx"
      >
 
-  <title>&project; Documentation</title>
+  <info>
+    <title>&project; Documentation</title>
+    <!-- <abstract> -->
+    <!--   <para></para> -->
+    <!-- </abstract> -->
+    <author>
+      <personname>Sean Champ</personname>
+      <affiliation>&project;</affiliation>
+    </author>
+  </info>
 
   <xi:include href="&projid;.project.xml"/>
   <xi:include href="&projid;.developer.xml"/>
