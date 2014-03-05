@@ -9,6 +9,7 @@
      xmlns:xi="http://www.w3.org/2001/XInclude"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      xml:id="&projid;"
+     version="5.0-ghubx"
      >
 
   <title>&project; Documentation</title>

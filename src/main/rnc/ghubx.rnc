@@ -3,12 +3,12 @@
 
 default namespace db = "http://docbook.org/ns/docbook"
 
-## cf. http://docbook.org/tdg5/en/html/ch05.html
-db.version.attribute = "5.0-ghubx"
-
-
 include "docbookxi.rnc" {
 }
+
+
+## cf. http://docbook.org/tdg5/en/html/ch05.html
+db.version.attribute |= "5.0-ghubx"
 
 
 db.set.components
