@@ -1,0 +1,30 @@
+<!DOCTYPE set [
+<!ENTITY % project.ent SYSTEM "project.ent">
+%project.ent;
+]>
+<!-- NOTICE: This document uses a customized version of DocBook 5
+     as defined in ghubx.rnc
+-->
+<set xmlns="http://docbook.org/ns/docbook"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xml:id="&projid;"
+     version="5.0-ghubx"
+     >
+
+  <info>
+    <title>&project; Documentation</title>
+    <!-- <abstract> -->
+    <!--   <para></para> -->
+    <!-- </abstract> -->
+    <author>
+      <personname>Sean Champ</personname>
+      <affiliation>&project;</affiliation>
+    </author>
+  </info>
+
+  <xi:include href="&projid;.project.xml"/>
+  <xi:include href="&projid;.developer.xml"/>
+  <xi:include href="&projid;.user.xml"/>
+
+</set>

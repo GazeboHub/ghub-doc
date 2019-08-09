@@ -1,0 +1,27 @@
+
+<!-- Entity Definitions for Gazebo Hub Documentation -->
+
+<!-- * Project Entities -->
+
+<!ENTITY project
+         'Gazebo Hub'
+>
+
+<!ENTITY projid
+        'ghub'
+>
+
+
+<!-- * Shorthand Entities -->
+
+<!ENTITY liferay
+        '<productname>Liferay</productname> <productnumber>6.2</productnumber>'
+>
+
+<!ENTITY jboss
+        '<productname>JBoss AS</productname><productnumber>7</productnumber>'
+>
+
+<!ENTITY foss
+        '<glossterm>Free/Open Source Software</glossterm>'
+>

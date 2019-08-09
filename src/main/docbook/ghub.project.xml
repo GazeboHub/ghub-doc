@@ -1,0 +1,26 @@
+<!DOCTYPE book [
+<!ENTITY % project.ent SYSTEM "project.ent">
+%project.ent;
+]>
+<book xmlns="http://docbook.org/ns/docbook"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xml:id="&projid;.project"
+     version="5.0-ghubx"
+     >
+  <title>&project; Project Documentation</title>
+
+  <chapter>
+    <title>Overview</title>
+
+    <section>
+      <title>The &project; Documentation Project</title>
+
+      <para>
+        This manual contains the primary documentation of the
+        &project; documentation project.
+      </para>
+    </section>
+
+  </chapter>
+</book>

@@ -1,0 +1,19 @@
+## GHub XML Documentation Schema
+## Extension for DocBook 5.0CR5
+
+default namespace db = "http://docbook.org/ns/docbook"
+
+include "docbookxi.rnc" {
+}
+
+
+## cf. http://docbook.org/tdg5/en/html/ch05.html
+## db.version.attribute = "5.0-ghubx"
+## ^ how to override the upstream attribute value, in RNC syntax?
+
+db.set.components
+        |= db.xi.include
+db.toc.components
+        |= db.xi.include
+db.setindex.components
+        |= db.xi.include
